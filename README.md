@@ -1,4 +1,4 @@
-# map-generator
+# Python-Map-generator
 
 ## Status: working
 
