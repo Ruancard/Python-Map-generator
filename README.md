@@ -1,2 +1,8 @@
 # map-generator
-generate a random maze
+
+## Status: working
+## Languages and frameworks
+
+* Python
+* Random
+
