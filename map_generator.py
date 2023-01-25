@@ -1,7 +1,7 @@
 import random
 
-horizontal = int(input('sign horizontal size:'))
-vertical = int(input('sign vertical size:'))
+horizontal = int(input('type horizontal size:'))
+vertical = int(input('type vertical size:'))
 lemb = 1
 yn = 0
 
